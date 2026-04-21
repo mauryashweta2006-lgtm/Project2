@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-// add new featur
-hii
-=======
-//add new feature
->>>>>>> main
+// add new feature
+
+//hello
+shweta
